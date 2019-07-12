@@ -12,7 +12,7 @@ public class ApiController {
 
     @GetMapping("version")
     public String version() {
-      return "11.2.3";
+      return "11.2.4";
     }
 
 }
