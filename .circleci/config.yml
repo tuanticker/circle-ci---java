@@ -47,4 +47,4 @@ workflows:
       - publish:
           filters:
             branches:
-              only: dev
+              only: master
